@@ -1,0 +1,1148 @@
+:root {
+	--web-view-ids: webProducts__2,Products_Tablet__2,Products_Mobile__2;
+	--web-view-name: webProducts – 2;
+	--web-view-id: webProducts__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+	--web-page-font: Segoe UI;
+}
+#webProducts__2,
+#Products_Tablet__2,
+#Products_Mobile__2 {
+	display: none;
+}
+@media (min-width: 1440px) {
+	.mediaViewInfo {
+		--web-view-name: webProducts – 2;
+		--web-view-id: webProducts__2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+		--web-page-font: Segoe UI;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#webProducts__2 {
+		position: absolute;
+		display: block;
+		width: 1440px;
+		height: 8458px;
+		font-family: Segoe UI;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: webProducts – 2;
+		--web-view-id: webProducts__2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+		--web-page-font: Segoe UI;
+	}
+	#group_4 {
+		position: fixed;
+		width: 1566px;
+		height: 70px;
+		left: 0px;
+		top: 230px;
+		overflow: visible;
+	}
+	#topnav {
+		overflow: hidden;
+		background-color: rgb(255, 255, 255);
+		height: 55px;
+		
+	  }
+	  
+	  #topnav a {
+		  
+		height: 70px;
+		float: left;
+		color: #707070;
+		text-align: center;
+		padding: 14px 18px;
+		display: block;
+		text-decoration: none;
+		font-family: Segoe UI;
+		font-weight: 400;
+		font-size: 18px;
+		transition: all .1s ease-Out;
+		
+	  }
+	  
+	  #topnav a:hover {
+		background-color: orange;
+		color: rgb(255, 255, 255);
+	  }
+	  
+	  #topnav a.active {
+		background-color: #4CAF50;
+		color: white;
+	  }
+	  #topnav1 {
+		overflow: hidden;
+		background-color: rgb(255, 255, 255);
+		height: 45px;
+		z-index: 10000;
+		width: 100%;
+		
+		
+		
+		
+	  }
+	  
+	  #topnav1 a {
+		  
+	
+		float: left;
+		color: #000000;
+		text-align: center;
+		padding: 13px 18px;
+		display: block;
+		
+		text-decoration: none;
+		font-weight: 500;
+		font-size: 20px;
+		transition: all .1s ease-Out;
+		
+	  }
+	  
+	  #topnav1 a:hover {
+		background-color: orange;
+		color: rgb(255, 255, 255);
+	  }
+	  
+	  #topnav1 a.active {
+		background-color: #4CAF50;
+		color: white;
+	  }
+	  .content {
+		padding: 16px;
+	  }
+	  
+	  .sticky {
+		position: fixed;
+		top: 0;
+		width: 100%;
+	  }
+	  
+	  .sticky + .content {
+		padding-top: 60px;
+	  }
+	#Rectangle_106_bb {
+		fill: url(#Rectangle_106_bb);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_106_bb {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 7567px;
+		left: 0px;
+		top: 919px;
+	}
+	#Rectangle_64 {
+		position: absolute;
+		width: 1440px;
+		height: 234px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ITF {
+		position: absolute;
+		width: 275px;
+		height: 218px;
+		left: 84px;
+		top: 8px;
+		overflow: visible;
+	}
+	#Path_95_bf {
+		opacity: 0.53;
+		fill: url(#Path_95_bf);
+	}
+	.Path_95_bf {
+		overflow: visible;
+		position: absolute;
+		width: 1440px;
+		height: 3521.462px;
+		left: 0px;
+		top: 891.22px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_96_bh {
+		opacity: 0.53;
+		fill: url(#Path_96_bh);
+	}
+	.Path_96_bh {
+		overflow: visible;
+		position: absolute;
+		width: 1440px;
+		height: 2845.551px;
+		left: 0px;
+		top: 4093.22px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_107 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_107 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 650px;
+		left: 0px;
+		top: 970px;
+	}
+	#Rectangle_108 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_108 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 650px;
+		left: 0px;
+		top: 1675px;
+	}
+	#Rectangle_109 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_109 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 650px;
+		left: 0px;
+		top: 2402px;
+	}
+	#Rectangle_110 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_110 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 650px;
+		left: 0px;
+		top: 3142px;
+	}
+	#Rectangle_115 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_115 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 650px;
+		left: 0px;
+		top: 4657px;
+	}
+	#Rectangle_154 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_154 {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 650px;
+		left: 0px;
+		top: 5407px;
+	}
+	#Rectangle_113 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_113 {
+		position: absolute;
+		overflow: visible;
+		width: 666px;
+		height: 700px;
+		left: 46px;
+		top: 3859px;
+	}
+	#Rectangle_114 {
+		fill: rgba(238,238,238,1);
+	}
+	.Rectangle_114 {
+		position: absolute;
+		overflow: visible;
+		width: 650px;
+		height: 700px;
+		left: 728px;
+		top: 3859px;
+	}
+	#Products_01 {
+		position: absolute;
+		width: 603px;
+		height: 335px;
+		left: 109px;
+		top: 1074px;
+		overflow: visible;
+	}
+	#Component_25__1 {
+		position: absolute;
+		width: 141px;
+		height: 79px;
+		left: 677px;
+		top: 981px;
+		overflow: visible;
+	}
+	#SAP {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 59px;
+		color: rgba(0,176,240,1);
+	}
+	#Audit_Arrays {
+		left: 584px;
+		top: 1724px;
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(45,38,111,1);
+	}
+	#But_I_must_explain_to_you_how_ {
+		left: 145px;
+		top: 1441px;
+		position: absolute;
+		overflow: visible;
+		width: 485px;
+		height: 125px;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(0,0,0,1);
+	}
+	#But_I_must_explain_to_you_how__bv {
+		left: 750px;
+		top: 1120px;
+		position: absolute;
+		overflow: visible;
+		width: 597px;
+		height: 321px;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(0,0,0,1);
+	}
+	#Verity {
+		left: 655px;
+		top: 2459px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(0,255,255,1);
+	}
+	#xPedite {
+		left: 640px;
+		top: 3190px;
+		position: absolute;
+		overflow: visible;
+		width: 162px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(0,176,240,1);
+	}
+	#GAMS360 {
+		left: 949px;
+		top: 3911px;
+		position: absolute;
+		overflow: visible;
+		width: 209px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(91,81,74,1);
+	}
+	#Get_a_DEMO_today:hover {
+		text-decoration: underline;
+	}
+	#Get_a_DEMO_today {
+		left: 1000px;
+		top: 1469px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(29,31,236,1);
+		transition: all .3s ease-out;
+	}
+	#Icon_feather-arrow-right {
+		position: absolute;
+		width: 15.522px;
+		height: 14.319px;
+		left: 971px;
+		top: 1475.681px;
+		overflow: visible;
+	}
+	#Path_5 {
+		fill: transparent;
+		stroke: rgba(30,22,235,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_5 {
+		overflow: visible;
+		position: absolute;
+		width: 16.522px;
+		height: 1px;
+		left: 0px;
+		top: 7.159px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_6 {
+		fill: transparent;
+		stroke: rgba(30,22,235,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_6 {
+		overflow: visible;
+		position: absolute;
+		width: 8.967px;
+		height: 15.732px;
+		left: 7.761px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Accelerate {
+		left: 607px;
+		top: 4716px;
+		position: absolute;
+		overflow: visible;
+		width: 227px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(74,48,71,1);
+	}
+	#Rectangle_116_b {
+		fill: url(#Rectangle_116_b);
+	}
+	.Rectangle_116_b {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 525px;
+		left: 0px;
+		top: 8058px;
+	}
+	#ITF_b {
+		filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.478));
+		position: absolute;
+		width: 275px;
+		height: 260px;
+		left: 181px;
+		top: 8128px;
+		overflow: visible;
+	}
+	#_2020_by_IT {
+		left: 273px;
+		top: 8405px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Find_us_on {
+		left: 1019px;
+		top: 8405px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Quick_Links {
+		left: 548px;
+		top: 8193px;
+		position: absolute;
+		overflow: visible;
+		width: 106px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Explore {
+		left: 729px;
+		top: 8193px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#About {
+		left: 871px;
+		top: 8193px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Site_Information {
+		left: 1004px;
+		top: 8193px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Home {
+		left: 547px;
+		top: 8234px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cg {
+		left: 728px;
+		top: 8232px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ch {
+		left: 871px;
+		top: 8232px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ci {
+		left: 1003px;
+		top: 8234px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cj {
+		left: 547px;
+		top: 8278px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ck {
+		left: 728px;
+		top: 8276px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cl {
+		left: 871px;
+		top: 8276px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cm {
+		left: 1003px;
+		top: 8278px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cn {
+		left: 547px;
+		top: 8322px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_co {
+		left: 728px;
+		top: 8320px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cp {
+		left: 871px;
+		top: 8320px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cq {
+		left: 1003px;
+		top: 8322px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Icon_awesome-linkedin {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-linkedin {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1115.137px;
+		top: 8400.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-twitter-square {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-twitter-square {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1227.75px;
+		top: 8400.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-facebook-square {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-facebook-square {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1171.568px;
+		top: 8400.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Request_a_call_back {
+		left: 534px;
+		top: 7434px;
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(213,244,255,1);
+		text-decoration: underline;
+	}
+	#Rectangle_117 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_117 {
+		position: absolute;
+		overflow: visible;
+		width: 376px;
+		height: 69px;
+		left: 336px;
+		top: 7588px;
+	}
+	#Rectangle_119 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_119 {
+		position: absolute;
+		overflow: visible;
+		width: 376px;
+		height: 69px;
+		left: 336px;
+		top: 7703px;
+	}
+	#Rectangle_121 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_121 {
+		position: absolute;
+		overflow: visible;
+		width: 768px;
+		height: 143px;
+		left: 336px;
+		top: 7807px;
+	}
+	#Rectangle_120 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_120 {
+		position: absolute;
+		overflow: visible;
+		width: 376px;
+		height: 66px;
+		left: 728px;
+		top: 7706px;
+	}
+	#Rectangle_118 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_118 {
+		position: absolute;
+		overflow: visible;
+		width: 376px;
+		height: 69px;
+		left: 728px;
+		top: 7588px;
+	}
+	#Would_you_like_to_speak_to_one {
+		left: 249px;
+		top: 7512px;
+		position: absolute;
+		overflow: visible;
+		width: 943px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(213,244,255,1);
+	}
+	#Enter_Name {
+		left: 746px;
+		top: 7609px;
+		position: absolute;
+		overflow: visible;
+		width: 117px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(162,159,159,1);
+	}
+	#Enter_Email {
+		left: 354px;
+		top: 7724px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(162,159,159,1);
+	}
+	#_Enter_Phone_No {
+		left: 740px;
+		top: 7726px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(162,159,159,1);
+	}
+	#_Message {
+		left: 354px;
+		top: 7835px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(162,159,159,1);
+	}
+	#_Options {
+		left: 354px;
+		top: 7609px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(162,159,159,1);
+	}
+	#Rectangle_122:hover {
+		fill: rgba(0,109,255,1);
+	}
+	#Rectangle_122 {
+		fill: rgba(113,134,162,1);
+		transition: all .3s ease-out;
+	}
+	.Rectangle_122 {
+		position: absolute;
+		overflow: visible;
+		width: 189px;
+		height: 69px;
+		left: 916px;
+		top: 7968px;
+	}
+	#Icon_awesome-angle-down {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-angle-down {
+		overflow: visible;
+		position: absolute;
+		width: 22.493px;
+		height: 14.526px;
+		left: 663.849px;
+		top: 7615.237px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#UserSentry {
+		left: 262px;
+		top: 3911px;
+		position: absolute;
+		overflow: visible;
+		width: 236px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(95,85,78,1);
+	}
+	#pxfuelcom {
+		opacity: 0.86;
+		position: absolute;
+		width: 1440px;
+		height: 600px;
+		left: 0px;
+		top: 319px;
+		overflow: visible;
+	}
+	#Products {
+		left: 569px;
+		top: 345px;
+		position: absolute;
+		overflow: visible;
+		width: 285px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI, Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 73px;
+		color: rgba(0,176,240,1);
+	}
+	#But_I_must_explain_to_you_how__dd {
+		left: 145px;
+		top: 495px;
+		position: absolute;
+		overflow: visible;
+		width: 1152px;
+		height: 108px;
+		text-align: center;
+		font-family: Segoe UI, Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(0,176,240,1);
+	}
+}
+@media (min-width: 768px) and (max-width: 1439px) {
+	.mediaViewInfo {
+		--web-view-name: Products Tablet – 2;
+		--web-view-id: Products_Tablet__2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Products_Tablet__2 {
+		position: absolute;
+		display: block;
+		width: 768px;
+		height: 1024px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Products Tablet – 2;
+		--web-view-id: Products_Tablet__2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_72_dh {
+		fill: url(#Rectangle_72_dh);
+	}
+	.Rectangle_72_dh {
+		width: 768.05px;
+		height: 216px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,-0.0496,-0.4531) rotate(0deg);
+		transform-origin: center;
+	}
+	#ITF_di {
+		position: absolute;
+		width: 196px;
+		height: 212px;
+		left: 285.95px;
+		top: 5.547px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) and (max-width: 767px) {
+	.mediaViewInfo {
+		--web-view-name: Products Mobile – 2;
+		--web-view-id: Products_Mobile__2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Products_Mobile__2 {
+		position: absolute;
+		display: block;
+		width: 360px;
+		height: 640px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Products Mobile – 2;
+		--web-view-id: Products_Mobile__2;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_73_dm {
+		fill: url(#Rectangle_73_dm);
+	}
+	.Rectangle_73_dm {
+		width: 360.314px;
+		height: 125px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,-0.1819,-0.4531) rotate(0deg);
+		transform-origin: center;
+	}
+	#ITF_dn {
+		position: absolute;
+		width: 99px;
+		height: 119px;
+		left: 131px;
+		top: 2.547px;
+		overflow: visible;
+	}
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('fonts/SEGOEUI.TTF') ;
+	}

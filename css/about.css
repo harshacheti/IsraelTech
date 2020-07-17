@@ -1,0 +1,831 @@
+:root {
+	--web-view-ids: webabout__1,About_Tablet__3,About_Mobile__10;
+	--web-view-name: webabout – 1;
+	--web-view-id: webabout__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#webabout__1,
+#About_Tablet__3,
+#About_Mobile__10 {
+	display: none;
+}
+@media (min-width: 1440px) {
+	.mediaViewInfo {
+		--web-view-name: webabout – 1;
+		--web-view-id: webabout__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#webabout__1 {
+		position: absolute;
+		display: block;
+		width: 1440px;
+		height: 4536px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: webabout – 1;
+		--web-view-id: webabout__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#group_4 {
+		position: fixed;
+		width: 1566px;
+		height: 70px;
+		left: 0px;
+		top: 230px;
+		overflow: visible;
+	}
+	#topnav {
+		overflow: hidden;
+		background-color: rgb(255, 255, 255);
+		height: 55px;
+		
+	  }
+	  
+	  #topnav a {
+		  
+		height: 70px;
+		float: left;
+		color: #707070;
+		text-align: center;
+		padding: 14px 18px;
+		display: block;
+		text-decoration: none;
+		font-family: Segoe UI;
+		font-weight: 400;
+		font-size: 18px;
+		transition: all .1s ease-Out;
+		
+	  }
+	  
+	  #topnav a:hover {
+		background-color: orange;
+		color: rgb(255, 255, 255);
+	  }
+	  
+	  #topnav a.active {
+		background-color: #4CAF50;
+		color: white;
+	  }
+	  #topnav1 {
+		overflow: hidden;
+		background-color: rgb(255, 255, 255);
+		height: 45px;
+		z-index: 10000;
+		width: 100%;
+		
+		
+		
+		
+	  }
+	  
+	  #topnav1 a {
+		  
+	
+		float: left;
+		color: #000000;
+		text-align: center;
+		padding: 13px 18px;
+		display: block;
+		
+		text-decoration: none;
+		font-weight: 500;
+		font-size: 20px;
+		transition: all .1s ease-Out;
+		
+	  }
+	  
+	  #topnav1 a:hover {
+		background-color: orange;
+		color: rgb(255, 255, 255);
+	  }
+	  
+	  #topnav1 a.active {
+		background-color: #4CAF50;
+		color: white;
+	  }
+	  .content {
+		padding: 16px;
+	  }
+	  
+	  .sticky {
+		position: fixed;
+		top: 0;
+		width: 100%;
+	  }
+	  
+	  .sticky + .content {
+		padding-top: 60px;
+	  }
+	#Rectangle_64 {
+		position: absolute;
+		width: 1440px;
+		height: 234px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ITF {
+		position: absolute;
+		width: 275px;
+		height: 218px;
+		left: 84px;
+		top: 8px;
+		overflow: visible;
+	}
+	#ID14086855402_8f5dfc07bc_o {
+		
+		position: relative;
+		width: 1445px;
+		height: 600px;
+		left: 0px;
+		top: 299px;
+		overflow: visible;
+	}
+	#But_I_must_explain_to_you_how_ {
+		left: 140px;
+		top: 726px;
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 120px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(252,252,252,1);
+	}
+	#Who_We_Are {
+		left: 140px;
+		top: 551px;
+		position: absolute;
+		overflow: visible;
+		width: 449px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 73px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_153_bg {
+		fill: url(#Rectangle_153_bg);
+	}
+	.Rectangle_153_bg {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 580px;
+		left: 0px;
+		top: 4115px;
+	}
+	#ITF_bh {
+		filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.478));
+		position: absolute;
+		width: 275px;
+		height: 260px;
+		left: 181px;
+		top: 4185px;
+		overflow: visible;
+	}
+	#_2020_by_IT {
+		left: 273px;
+		top: 4462px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Find_us_on {
+		left: 1019px;
+		top: 4462px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Quick_Links {
+		left: 548px;
+		top: 4250px;
+		position: absolute;
+		overflow: visible;
+		width: 106px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Explore {
+		left: 729px;
+		top: 4250px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#About {
+		left: 870px;
+		top: 4250px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Site_Information {
+		left: 1005px;
+		top: 4250px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Home {
+		left: 547px;
+		top: 4291px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bp {
+		left: 728px;
+		top: 4289px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bq {
+		left: 870px;
+		top: 4289px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_br {
+		left: 1004px;
+		top: 4291px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bs {
+		left: 547px;
+		top: 4335px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bt {
+		left: 728px;
+		top: 4333px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bu {
+		left: 870px;
+		top: 4333px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bv {
+		left: 1004px;
+		top: 4335px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bw {
+		left: 547px;
+		top: 4379px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bx {
+		left: 728px;
+		top: 4377px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_by {
+		left: 870px;
+		top: 4377px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_bz {
+		left: 1004px;
+		top: 4379px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Icon_awesome-linkedin {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-linkedin {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1115.137px;
+		top: 4457.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-twitter-square {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-twitter-square {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1223.75px;
+		top: 4457.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-facebook-square {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-facebook-square {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1169.568px;
+		top: 4457.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_155_b {
+		fill: url(#Rectangle_155_b);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_155_b {
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		height: 380px;
+		left: 1134px;
+		top: 1040px;
+	}
+	#About_Us {
+		left: 1229px;
+		top: 1051px;
+		position: absolute;
+		overflow: visible;
+		width: 84px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(139,175,235,1);
+		text-decoration: underline;
+	}
+	#Downloads {
+		left: 1221px;
+		top: 1205px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(139,175,235,1);
+		text-decoration: underline;
+	}
+	#Icon_ionic-ios-arrow-dropright {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_ionic-ios-arrow-dropright {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 1165px;
+		top: 1096px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_ionic-ios-arrow-dropright_b {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_ionic-ios-arrow-dropright_b {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 1166px;
+		top: 1250px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_ionic-ios-arrow-dropright_ca {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_ionic-ios-arrow-dropright_ca {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 1165px;
+		top: 1134px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_ionic-ios-arrow-dropright_cb {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_ionic-ios-arrow-dropright_cb {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 1166px;
+		top: 1288px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_ionic-ios-arrow-dropright_cc {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_ionic-ios-arrow-dropright_cc {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 1166px;
+		top: 1172px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_ionic-ios-arrow-dropright_cd {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_ionic-ios-arrow-dropright_cd {
+		overflow: visible;
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 1167px;
+		top: 1326px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#About_IT {
+		left: 1190px;
+		top: 1095px;
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(139,175,235,1);
+	}
+	#Company_Overview {
+		left: 1192px;
+		top: 1249px;
+		position: absolute;
+		overflow: visible;
+		width: 124px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(139,175,235,1);
+	}
+	#Vision__Mission {
+		left: 1191px;
+		top: 1132px;
+		position: absolute;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(139,175,235,1);
+	}
+	#Our_Publications {
+		left: 1192px;
+		top: 1286px;
+		position: absolute;
+		overflow: visible;
+		width: 106px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(139,175,235,1);
+	}
+	#Corporate_Governance {
+		left: 1194px;
+		top: 1169px;
+		position: absolute;
+		overflow: visible;
+		width: 142px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(139,175,235,1);
+	}
+	#Brochure {
+		left: 1195px;
+		top: 1323px;
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(139,175,235,1);
+	}
+}
+@media (min-width: 768px) and (max-width: 1439px) {
+	.mediaViewInfo {
+		--web-view-name: About Tablet – 3;
+		--web-view-id: About_Tablet__3;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#About_Tablet__3 {
+		position: absolute;
+		display: block;
+		width: 768px;
+		height: 1024px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: About Tablet – 3;
+		--web-view-id: About_Tablet__3;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_86_cm {
+		fill: url(#Rectangle_86_cm);
+	}
+	.Rectangle_86_cm {
+		width: 768.05px;
+		height: 216px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,-0.0498,-0.4531) rotate(0deg);
+		transform-origin: center;
+	}
+	#ITF_cn {
+		position: absolute;
+		width: 196px;
+		height: 212px;
+		left: 285.95px;
+		top: 5.547px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) and (max-width: 767px) {
+	.mediaViewInfo {
+		--web-view-name: About Mobile – 10;
+		--web-view-id: About_Mobile__10;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#About_Mobile__10 {
+		position: absolute;
+		display: block;
+		width: 360px;
+		height: 640px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: About Mobile – 10;
+		--web-view-id: About_Mobile__10;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_89_cr {
+		fill: url(#Rectangle_89_cr);
+	}
+	.Rectangle_89_cr {
+		width: 360.314px;
+		height: 125px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,-0.1816,-0.4531) rotate(0deg);
+		transform-origin: center;
+	}
+	#ITF_cs {
+		position: absolute;
+		width: 99px;
+		height: 119px;
+		left: 131px;
+		top: 2.547px;
+		overflow: visible;
+	}
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('fonts/SEGOEUI.TTF') ;
+	}

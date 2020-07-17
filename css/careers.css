@@ -1,0 +1,799 @@
+:root {
+	--web-view-ids: webcareers__1,careers_Tablet__4,careers_Mobile__9;
+	--web-view-name: webcareers – 1;
+	--web-view-id: webcareers__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#webcareers__1,
+#careers_Tablet__4,
+#careers_Mobile__9 {
+	display: none;
+}
+@media (min-width: 1440px) {
+	.mediaViewInfo {
+		--web-view-name: webcareers – 1;
+		--web-view-id: webcareers__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#webcareers__1 {
+		position: absolute;
+		display: block;
+		width: 1440px;
+		height: 4536px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: webcareers – 1;
+		--web-view-id: webcareers__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#group_4 {
+		position: fixed;
+		width: 1566px;
+		height: 70px;
+		left: 0px;
+		top: 230px;
+		overflow: visible;
+	}
+	#topnav {
+		overflow: hidden;
+		background-color: rgb(255, 255, 255);
+		height: 55px;
+		
+	  }
+	  
+	  #topnav a {
+		  
+		height: 70px;
+		float: left;
+		color: #707070;
+		text-align: center;
+		padding: 14px 18px;
+		display: block;
+		text-decoration: none;
+		font-family: Segoe UI;
+		font-weight: 400;
+		font-size: 18px;
+		transition: all .1s ease-Out;
+		
+	  }
+	  
+	  #topnav a:hover {
+		background-color: orange;
+		color: rgb(255, 255, 255);
+	  }
+	  
+	  #topnav a.active {
+		background-color: #4CAF50;
+		color: white;
+	  }
+	  #topnav1 {
+		overflow: hidden;
+		background-color: rgb(255, 255, 255);
+		height: 45px;
+		z-index: 10000;
+		width: 100%;
+		
+		
+		
+		
+	  }
+	  
+	  #topnav1 a {
+		  
+	
+		float: left;
+		color: #000000;
+		text-align: center;
+		padding: 13px 18px;
+		display: block;
+		
+		text-decoration: none;
+		font-weight: 500;
+		font-size: 20px;
+		transition: all .1s ease-Out;
+		
+	  }
+	  
+	  #topnav1 a:hover {
+		background-color: orange;
+		color: rgb(255, 255, 255);
+	  }
+	  
+	  #topnav1 a.active {
+		background-color: #4CAF50;
+		color: white;
+	  }
+	  .content {
+		padding: 16px;
+	  }
+	  
+	  .sticky {
+		position: fixed;
+		top: 0;
+		width: 100%;
+	  }
+	  
+	  .sticky + .content {
+		padding-top: 60px;
+	  }
+	#Rectangle_64 {
+		position: absolute;
+		width: 1440px;
+		height: 234px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ITF {
+		position: absolute;
+		width: 275px;
+		height: 218px;
+		left: 84px;
+		top: 8px;
+		overflow: visible;
+	}
+	#ID14086855402_8f5dfc07bc_o {
+		opacity: 0.86;
+		position: absolute;
+		width: 1445px;
+		height: 600px;
+		left: 0px;
+		top: 299px;
+		overflow: visible;
+	}
+	#Rectangle_71_be {
+		fill: url(#Rectangle_71_be);
+	}
+	.Rectangle_71_be {
+		position: absolute;
+		overflow: visible;
+		width: 586px;
+		height: 600px;
+		left: 854px;
+		top: 299px;
+	}
+	#But_I_must_explain_to_you_how_ {
+		left: 607px;
+		top: 714px;
+		position: absolute;
+		overflow: visible;
+		width: 694px;
+		height: 120px;
+		text-align: right;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#Current_Openings {
+		left: 146px;
+		top: 1053px;
+		position: absolute;
+		overflow: visible;
+		width: 369px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 48px;
+		color: rgba(125,19,19,1);
+	}
+	#Feel_fulfilled_Have_fun_Help_u {
+		left: 146px;
+		top: 1025px;
+		position: absolute;
+		overflow: visible;
+		width: 484px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(125,19,19,1);
+	}
+	#But_I_must_explain_to_you_how__bi {
+		left: 146px;
+		top: 1270px;
+		position: absolute;
+		overflow: hidden;
+		width: 660px;
+		height: 196px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#But_I_must_explain_to_you_how__bj {
+		left: 146px;
+		top: 1196px;
+		position: absolute;
+		overflow: hidden;
+		width: 622px;
+		height: 42px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Rectangle_147 {
+		fill: rgba(149,236,201,1);
+	}
+	.Rectangle_147 {
+		position: absolute;
+		overflow: visible;
+		width: 560px;
+		height: 329px;
+		left: 805px;
+		top: 1085px;
+	}
+	#Icon_feather-play-circle {
+		position: absolute;
+		width: 77.198px;
+		height: 75.938px;
+		left: 1046px;
+		top: 1211.562px;
+		overflow: visible;
+	}
+	#Path_39 {
+		fill: rgba(0,0,0,0.612);
+		stroke: rgba(255,255,255,0.78);
+		stroke-width: 5px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_39 {
+		overflow: visible;
+		position: absolute;
+		width: 82.197px;
+		height: 80.938px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_40 {
+		fill: transparent;
+		stroke: rgba(255,255,255,0.78);
+		stroke-width: 5px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_40 {
+		overflow: visible;
+		position: absolute;
+		width: 28.159px;
+		height: 35.375px;
+		left: 30.879px;
+		top: 22.781px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_148 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1.5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_148 {
+		position: absolute;
+		overflow: visible;
+		width: 315px;
+		height: 51px;
+		left: 146px;
+		top: 1620px;
+	}
+	#Rectangle_149 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1.5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_149 {
+		position: absolute;
+		overflow: visible;
+		width: 315px;
+		height: 51px;
+		left: 476px;
+		top: 1620px;
+	}
+	#Partnerships {
+		left: 1038px;
+		top: 1550px;
+		position: absolute;
+		overflow: visible;
+		width: 248px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 44px;
+		color: rgba(19,44,125,1);
+	}
+	#Rectangle_150_bs {
+		fill: url(#Rectangle_150_bs);
+	}
+	.Rectangle_150_bs {
+		position: absolute;
+		overflow: visible;
+		width: 1440px;
+		height: 580px;
+		left: 0px;
+		top: 4113px;
+	}
+	#ITF_bt {
+		filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.478));
+		position: absolute;
+		width: 275px;
+		height: 260px;
+		left: 181px;
+		top: 4183px;
+		overflow: visible;
+	}
+	#_2020_by_IT {
+		left: 273px;
+		top: 4460px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Find_us_on {
+		left: 1019px;
+		top: 4460px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#Quick_Links {
+		left: 548px;
+		top: 4248px;
+		position: absolute;
+		overflow: visible;
+		width: 106px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Explore {
+		left: 729px;
+		top: 4248px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#About {
+		left: 870px;
+		top: 4248px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Site_Information {
+		left: 1005px;
+		top: 4248px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 21px;
+		color: rgba(234,230,230,1);
+	}
+	#Home {
+		left: 547px;
+		top: 4289px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_b {
+		left: 728px;
+		top: 4287px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ca {
+		left: 870px;
+		top: 4287px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cb {
+		left: 1004px;
+		top: 4289px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cc {
+		left: 547px;
+		top: 4333px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cd {
+		left: 728px;
+		top: 4331px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ce {
+		left: 870px;
+		top: 4331px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cf {
+		left: 1004px;
+		top: 4333px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cg {
+		left: 547px;
+		top: 4377px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ch {
+		left: 728px;
+		top: 4375px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_ci {
+		left: 870px;
+		top: 4375px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Home_cj {
+		left: 1004px;
+		top: 4377px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(214,210,210,1);
+	}
+	#Icon_awesome-linkedin {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-linkedin {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1115.137px;
+		top: 4455.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-twitter-square {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-twitter-square {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1223.75px;
+		top: 4455.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Icon_awesome-facebook-square {
+		fill: rgba(0,0,0,1);
+	}
+	.Icon_awesome-facebook-square {
+		overflow: visible;
+		position: absolute;
+		width: 31.5px;
+		height: 31.5px;
+		left: 1169.568px;
+		top: 4455.25px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_151:hover {
+		fill: rgba(24,0,255,1);
+	}
+	#Rectangle_151 {
+		fill: rgba(171,164,238,1);
+		transition: all .3s ease-out;
+	}
+	.Rectangle_151 {
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		height: 40px;
+		left: 805px;
+		top: 1626px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1439px) {
+	.mediaViewInfo {
+		--web-view-name: careers Tablet – 4;
+		--web-view-id: careers_Tablet__4;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#careers_Tablet__4 {
+		position: absolute;
+		display: block;
+		width: 768px;
+		height: 1024px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: careers Tablet – 4;
+		--web-view-id: careers_Tablet__4;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_85_cl {
+		fill: url(#Rectangle_85_cl);
+	}
+	.Rectangle_85_cl {
+		width: 768.05px;
+		height: 216px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,-0.0498,-0.4531) rotate(0deg);
+		transform-origin: center;
+	}
+	#ITF_cm {
+		position: absolute;
+		width: 196px;
+		height: 212px;
+		left: 285.95px;
+		top: 5.547px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) and (max-width: 767px) {
+	.mediaViewInfo {
+		--web-view-name: careers Mobile – 9;
+		--web-view-id: careers_Mobile__9;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#careers_Mobile__9 {
+		position: absolute;
+		display: block;
+		width: 360px;
+		height: 640px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: careers Mobile – 9;
+		--web-view-id: careers_Mobile__9;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-enable-scale-up: true;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_88_cq {
+		fill: url(#Rectangle_88_cq);
+	}
+	.Rectangle_88_cq {
+		width: 360.314px;
+		height: 125px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,-0.1816,-0.4531) rotate(0deg);
+		transform-origin: center;
+	}
+	#ITF_cr {
+		position: absolute;
+		width: 99px;
+		height: 119px;
+		left: 131px;
+		top: 2.547px;
+		overflow: visible;
+	}
+}
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('fonts/SEGOEUI.TTF') ;
+	}
