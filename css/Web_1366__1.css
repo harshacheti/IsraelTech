@@ -14,12 +14,12 @@
 	--web-navigate-on-keypress: false;
 	--web-refresh-for-changes: false;
 	--web-add-image-compare: false;
-	--web-show-by-media-query: false;
+	--web-show-by-media-query: true;
 	--web-application: true;
 	--web-show-navigation-controls: false;
 	--web-enable-deep-linking: true;
 	--web-is-overlay: false;
-	--web-page-font: Times New Roman;
+	--web-page-font: Segoe UI;
 }
 #Web_1366__1,
 #Android_Tablet__1,
@@ -37,7 +37,7 @@
 		--web-center-horizontally: true;
 		--web-application: true;
 		--web-enable-deep-linking: true;
-		--web-page-font: Times New Roman;
+		--web-page-font: Segoe UI;
 	}
 	* {
 		margin: 0;
@@ -46,7 +46,7 @@
 		border: none;
 	}
 	#Web_1366__1 {
-		position: absolute;
+		position: relative;
 		display: block;
 		width: 1366px;
 		height: 5198px;
@@ -62,10 +62,10 @@
 		--web-center-horizontally: true;
 		--web-application: true;
 		--web-enable-deep-linking: true;
-		--web-page-font: Times New Roman;
+		--web-page-font: Segoe UI;
 	}
 	#group_4 {
-		position: absolute;
+		position: fixed;
 		width: 1566px;
 		height: 70px;
 		left: 0px;
@@ -110,6 +110,7 @@
 		height: 45px;
 		z-index: 10000;
 		width: 100%;
+		display:none;  
 		
 		
 		
